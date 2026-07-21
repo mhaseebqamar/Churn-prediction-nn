@@ -4,7 +4,7 @@ A Deep Learning coursework project (SGH Warsaw School of Economics, Winter 2024/
 
 ## Project context
 
-This project was built as a final assignment for the **Deep Learning** course at SGH Warsaw School of Economics. It was developed as a guided, AI-assisted learning exercise — I worked through each stage (EDA, preprocessing, architecture design, hyperparameter tuning, evaluation) with explanations at every step, with the explicit goal of understanding *why* each decision was made, not just producing a working notebook. I'm including this context here in the interest of transparency rather than overstating independent authorship.
+This project was built as a final assignment for the **Deep Learning** course at SGH Warsaw School of Economics. I worked through each stage (EDA, preprocessing, architecture design, hyperparameter tuning, evaluation) with explanations at every step, with the explicit goal of understanding *why* each decision was made, not just producing a working notebook. I'm including this context here in the interest of transparency rather than overstating independent authorship.
 
 ## What this project does
 
